@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EZParking/static/css/main.ae42ac5f.css",
-    "main.js": "/EZParking/static/js/main.790c3d3d.js",
+    "main.js": "/EZParking/static/js/main.a3c94c80.js",
     "index.html": "/EZParking/index.html",
     "main.ae42ac5f.css.map": "/EZParking/static/css/main.ae42ac5f.css.map",
-    "main.790c3d3d.js.map": "/EZParking/static/js/main.790c3d3d.js.map"
+    "main.a3c94c80.js.map": "/EZParking/static/js/main.a3c94c80.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.790c3d3d.js"
+    "static/js/main.a3c94c80.js"
   ]
 }
