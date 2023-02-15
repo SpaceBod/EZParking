@@ -8,7 +8,12 @@ export const Services = (props) => {
           <h2>Technologies</h2>
           <p>
 <<<<<<< HEAD
+<<<<<<< HEAD
             Take a closer look inside...
+=======
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
+            dapibus leonec.
+>>>>>>> parent of a129e06 (updated)
 =======
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
