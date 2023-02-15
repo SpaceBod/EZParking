@@ -7,7 +7,12 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Technologies</h2>
           <p>
+<<<<<<< HEAD
             Take a closer look inside...
+=======
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
+            dapibus leonec.
+>>>>>>> parent of a129e06 (updated)
           </p>
         </div>
         <div className="row">
