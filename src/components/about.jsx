@@ -7,11 +7,13 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+            <iframe width="560" height="315"
+              src="https://www.youtube.com/embed/pglYZ76YU8Y" allowfullscreen>
+            </iframe>
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>About Easy Parking</h2>
+              <h2>About Smart Parking</h2>
               <p>{props.data ? props.data.paragraph1 : "loading..."}</p>
               <p>{props.data ? props.data.paragraph2 : "loading..."}</p>
               <h3>Why Choose Us?</h3>

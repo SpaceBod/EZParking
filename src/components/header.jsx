@@ -14,12 +14,8 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a href="https://www.youtube.com/watch?v=eBGIQ7ZuuiU" className="btn btn-custom btn-lg page-scroll">
-                  View Parking Spots
+                  Parking Portal
                 </a>
-                &nbsp; &nbsp; &nbsp;
-                <a href="#features" className="btn btn-custom btn-lg page-scroll">
-                  Learn More
-                </a>{" "}
               </div>
             </div>
           </div>
