@@ -19,47 +19,47 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "RFID & Air Quality Sensor",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "I2C Multiplexer",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "ToF Sesnors",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "8MP Pi Camera",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Gate System",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Parking Sensor Node",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Parking Sensor Node",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "OLed Gate Display",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Parking Map",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -67,33 +67,23 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Hardware",
+      "text": "The system is created using a Raspberry Pi Zero W and sensors for rapid product development and deployment, and to keep costs down. The sensors used are: VL53LOx Time-of-Flight, PN532 RFID Reader, CCS811 Air Quality Sensor and a camera. The choice of hardware allows for easy expansion of the system to as many spaces as is required; simply adding more VL53L0x sensors and some small code modifications are needed. "
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "ANPR",
+      "text": "Automatic number plate recognition is run to identify vehicles in order to verify if access is permitted. Alternatively, if a card is used for entry, the number plate is read for the user to see in their history. The processing takes place on a server using machine learning algorithms with TensorFlow for plate detection and OCR (optical character recognition) to extract the plate number."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Realtime Database",
+      "text": "A realtime NoSQL database hosted on Google Firebase is used to store and serve up-to-date information on space availability and type to the website. The database requires a private key for access and is accessed using HTTPS, ensuring security of user information which is stored to allow automatic entry and history lookup, showing times of entry and exit along with the number plate of the car. "
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Environmental Sensors",
+      "text": "Temperature, humidity, CO2 levels and TVOC (Total Volatile Organic Compounds) are continuously monitored using I2C communication between the Raspberry Pi and sensors, and is displayed on the website to show air quality information."
     }
   ],
   "Team": [
