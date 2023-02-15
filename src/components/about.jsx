@@ -8,7 +8,7 @@ export const About = (props) => {
           <div className="col-xs-12 col-md-6">
             {" "}
             <iframe width="560" height="315"
-              src="https://www.youtube.com/embed/pglYZ76YU8Y" allowfullscreen>
+              src="https://www.youtube.com/embed/pglYZ76YU8Y" frameborder="0" allowFullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">
             </iframe>
           </div>
           <div className="col-xs-12 col-md-6">
