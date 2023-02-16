@@ -85,9 +85,8 @@
     {
       "icon": "fa fa-camera",
       "name": "ANPR",
-      "text": "Automatic Number Plate Recognition (ANPR) is employed to facilitate vehicle identification for access verification purposes. In the event that a card is utilized for entry, the system retrieves the corresponding number plate to provide a comprehensive user history. The entire recognition process is conducted on a server using state-of-the-art deep learning algorithms with TensorFlow, which enables plate detection and OCR (Optical Character Recognition) for seamless extraction of the plate number. To ensure the image receiving function on the server is not impeded during the number plate recognition process, we have incorporated the use of multiprocessing functionality in our server-side code. This enables multiple processes to run simultaneously and without interference, thereby optimizing the overall performance of the system."
+      "text": "Automatic Number Plate Recognition is employed to facilitate vehicle identification for access verification purposes. In the event that a card is utilized for entry, the system retrieves the corresponding number plate to provide a comprehensive user history. The entire recognition process is conducted on a server using state-of-the-art deep learning algorithms with TensorFlow, which enables plate detection and OCR (Optical Character Recognition) for seamless extraction of the plate number. To ensure the image receiving function on the server is not impeded during the number plate recognition process, we have incorporated the use of multiprocessing functionality in our server-side code. This enables multiple processes to run simultaneously and without interference, thereby optimizing the overall performance of the system."
     }
-    
   ],
   "Team": [
     {
