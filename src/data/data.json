@@ -6,6 +6,8 @@
   "About": {
     "paragraph1": "This product, a smart parking solution, uses cutting-edge technology to enhance the efficiency and convenience of parking management.",
     "paragraph2": "By utilising sensors, automatic number plate recognition, and real-time data analysis, this product is able to monitor the availability of parking spots in real-time and provide this information to users through online platforms or mobile applications.",
+    "paragraph3": "If you are a commercial entity looking to build or upgrade a car park, this product enables the easy installation of smart features. The package you will receive contains all the necessary hardware and code, as detailed in the Technologies section, resulting in minimal overhead compared to other commercially available solutions. A high level of flexibility was key in the design of our system meaning EzPark can be adapted for use in all car park layouts, and RFID, ANPR or both can be used for entry and exit. We have carefully devised an intuitive interface for users of the car park to create a frustration-free experience.",
+    "paragraph4": "Upon purchasing our product, we will grant you access to your car park's database which can only be accessed by your security certificates, and we can provide advice on installing the system. Minimal maintenance is required after setup, so you can be worry-free that everything is running smoothly and reliably. So get in contact - EzPark is the easy way to bring your car park into the 21st century!",
     "Why": [
       "Innovative Technology",
       "Real-time Parking Availability",
@@ -29,7 +31,7 @@
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "ToF Sesnors",
+      "title": "ToF Sensors",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
@@ -49,7 +51,7 @@
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Parking Sensor Node",
+      "title": "Parking Space Database",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
